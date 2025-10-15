@@ -7,7 +7,6 @@ metadata:
 spec:
   
   replicas: {{ .Values.replicaCount }}
-  {{- end }}
   selector:
     matchLabels:
       {{- include "helm-demo-chart.selectorLabels" . | nindent 6 }}
