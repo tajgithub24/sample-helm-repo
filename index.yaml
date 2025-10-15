@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-demo-chart:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-10-15T02:35:05.455473135Z"
+    description: A simple internal load balancer demo app
+    digest: 67be0b459aa66d6af4f2c11ebeb9ecf42a5e1d60cc90b26578e8f84f3edfdaf5
+    name: helm-demo-chart
+    type: application
+    urls:
+    - https://github.com/tajgithub24/sample-helm-repo.git/helm-demo-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-10-15T02:35:05.454823488Z"

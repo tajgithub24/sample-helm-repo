@@ -1,0 +1,7 @@
+apiVersion: v2
+name: helm-demo-chart
+description: A simple internal load balancer demo app
+type: application
+version: 1.0.0
+appVersion: "1.0"
+
